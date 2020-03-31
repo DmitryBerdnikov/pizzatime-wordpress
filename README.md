@@ -1,4 +1,4 @@
-﻿# посадка верстки на Wordpress
+﻿# Посадка верстки на Wordpress
 
 - [Ссылка на макет](https://drive.google.com/open?id=1x2G6nxGaxhxItLxUqclqGEPFNf8y0eSS)
 - [Ссылка на верстку](https://drive.google.com/file/d/1RuGcr1HIOUKNqsqCwJaoeVCubDzD25VZ)
